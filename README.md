@@ -1,3 +1,3 @@
 - Retarは、投資のためにプログラム開発をしています。
-- https://twitter.com/retar_jp
-- 質問、要望があれば、Twitterやhttps://www.retar.jp/まで。
+- 
+- 質問、要望があれば、Twitter(https://twitter.com/retar_jp)、Web（https://www.retar.jp/）まで。
